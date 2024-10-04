@@ -1,7 +1,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thetein@gmail.com)
 
 ## Hi I'm Seokho Ryu 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leoryu90&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leoryu90&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leoryu90)](https://github.com/anuraghazra/github-readme-stats)
 ## 기술 스택
