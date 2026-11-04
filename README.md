@@ -20,7 +20,7 @@ Java/Spring 백엔드 개발자로 출발해, 지금은 **RAG 등 AI 시스템 �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **AI**
-- RAG / Search: KURE-v1 · Milvus · Qdrant · BM25 · bge-reranker-v2-m3 · Kiwi
+- RAG / Search: Embedding · Reranker · Milvus · Qdrant · BM25 · Kiwi
 - Speech / Emotion: faster-whisper · Silero VAD · Wav2Vec2 · KoBERT
 - Real-time: LiveKit
 
