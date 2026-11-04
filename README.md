@@ -21,7 +21,7 @@ Java/Spring 백엔드 개발자로 출발해, 지금은 **RAG 등 AI 시스템 �
 
 **AI**
 - RAG / Search: Embedding · Reranker · Milvus · Qdrant · BM25 · Kiwi
-- Speech / Emotion: faster-whisper · Silero VAD · Wav2Vec2 · KoBERT
+- Speech / NLP: whisper · KoBERT
 - Real-time: LiveKit
 
 **DB**  
