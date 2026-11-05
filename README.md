@@ -12,6 +12,13 @@ Java/Spring 백엔드 개발자로 출발해, 지금은 **RAG 등 AI 시스템 �
 - **공공·SI 프로젝트** (Java, Spring, 전자정부프레임워크)
 
 ## 🛠 Tech Stack
+**Front-End / Mobile**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JSP](https://img.shields.io/badge/JSP-4A6FA5?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Back-End**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
