@@ -1,5 +1,3 @@
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thetein@gmail.com)
-
 ### 👋 Hi, I'm Seokho Ryu
 
 Java/Spring 백엔드 개발자로 출발해, 지금은 **RAG 등 AI 시스템 설계·구축**을 주로 맡고 있습니다.
