@@ -43,7 +43,7 @@ Java/Spring 백엔드 개발자로 출발해, 지금은 **RAG 등 AI 시스템 �
 
 ## 🛠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leoryu90&layout=compact)
+![Skills](https://skillicons.dev/icons?i=java,spring,python,docker,linux)
 
 ## 📫 Contact
 
