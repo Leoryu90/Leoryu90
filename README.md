@@ -41,10 +41,6 @@ Java/Spring 백엔드 개발자로 출발해, 지금은 **RAG 등 AI 시스템 �
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## 🛠 Top Languages
-
-![Skills](https://skillicons.dev/icons?i=java,spring,python,docker,linux)
-
 ## 📫 Contact
 
 - Email: thetein@gmail.com
